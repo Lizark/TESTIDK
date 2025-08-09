@@ -1,0 +1,13 @@
+openai
+accelerate
+diffusers
+peft
+sentencepiece
+spaces
+torch
+transformers
+xformers
+streamlit
+invisible_watermark
+pydantic==2.10.6
+compel
